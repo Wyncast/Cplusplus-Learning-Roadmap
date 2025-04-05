@@ -4,11 +4,11 @@ This is my roadmap for learning C++ from scratch without any programming knowled
  
 **Started April 5 2025**<br/>
 **Learncpp.com - 200+ hours**<br/> 
- [>] - 1–3	Basics (Introduction, Variables, Types)	5–10 hours<br/>	
-	[] - 4–7	Control Flow, Functions	10–20 hours<br/>
-	[] - 8–12	Arrays, Pointers, References	10–25 hours<br/>
-	[] - 13–16	Object-Oriented Programming Concepts	15–30 hours<br/>
-	[] - 17–20+	Advanced Topics (Templates, etc.)	20–80+ hours<br/>
+[^] - 1–3	Basics (Introduction, Variables, Types)	5–10 hours<br/>	
+ [] - 4–7	Control Flow, Functions	10–20 hours<br/>
+ [] - 8–12	Arrays, Pointers, References	10–25 hours<br/>
+ [] - 13–16	Object-Oriented Programming Concepts	15–30 hours<br/>
+ [] - 17–20+	Advanced Topics (Templates, etc.)	20–80+ hours<br/>
 
 **Accelerated C++ by Andrew Koenig and Barbara E. Moo - 50-150 hours**<br/>
   [] - 1	Basics: Introduction to C++ and simple programs	3–5 hours<br/>
